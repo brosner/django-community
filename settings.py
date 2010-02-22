@@ -144,6 +144,7 @@ INSTALLED_APPS = (
     'signup_codes',
     'about',
     'django.contrib.admin',
+    'jobs',
 
 )
 
